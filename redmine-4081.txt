@@ -31,3 +31,10 @@
   git cloneでリポジトリを複製する
 
     $ git clone https://github.com/nkumiko93/GitLearning.git
+
+ 10:18
+   git push https://github.com/nkumiko93/GitLearning.git
+
+■把握したこと
+  ・ソース編集などをして、コミットしてもあくまでローカル環境のリポジトリのみの変更なので、
+    必ず、リモートリポジトリへの反映が必要になること。
